@@ -1,0 +1,14 @@
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\bin\Debug\net8.0\DominoChainSolver.exe
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\bin\Debug\net8.0\DominoChainSolver.deps.json
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\bin\Debug\net8.0\DominoChainSolver.runtimeconfig.json
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\bin\Debug\net8.0\DominoChainSolver.dll
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\bin\Debug\net8.0\DominoChainSolver.pdb
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\DominoChainSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\DominoChainSolver.AssemblyInfoInputs.cache
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\DominoChainSolver.AssemblyInfo.cs
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\DominoChainSolver.csproj.CoreCompileInputs.cache
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\DominoChainSolver.dll
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\refint\DominoChainSolver.dll
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\DominoChainSolver.pdb
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\DominoChainSolver.genruntimeconfig.cache
+C:\Users\mobin\RiderProjects\ChillGames\DominoChainSolver\obj\Debug\net8.0\ref\DominoChainSolver.dll
